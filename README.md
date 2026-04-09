@@ -84,4 +84,4 @@ Se probarán las siguientes funcionalidades:
 - Test Plan
 - Casos de prueba
 - Reporte de bugs
-Add initial api testing
+  Coming soon...
